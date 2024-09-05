@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pikaturno069
 - 👀 I’m interested in coding/programming/gaming
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on expending my knowledege started coding 2 weeks ago
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nigel2004wild@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i stream on twitch pikaturno069 u should check it out sometime.
